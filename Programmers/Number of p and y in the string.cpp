@@ -11,6 +11,8 @@ int main()
     cin >> s;
     bool ans = solution(s);
     cout << ans;
+
+    return 0;
 }
 
 bool solution(string s)
