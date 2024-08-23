@@ -1,5 +1,7 @@
 #include <iostream>
 #include <string>
+#include <vector>
+#include <algorithm>
 
 using namespace std;
 
@@ -35,7 +37,8 @@ int solution(string s)
 
 int main()
 {
-    solution("baabaa");
+    vector<int> a{1, 2, 3};
+    cout << *a.begin();
 
     return 0;
 }
