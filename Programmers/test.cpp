@@ -38,7 +38,8 @@ int solution(string s)
 int main()
 {
     vector<int> a{1, 2, 3};
-    cout << *a.begin();
-
+    a.pop_back();
+    for (auto it = a.begin(); it != a.end(); it++)
+        cout << *it << " ";
     return 0;
 }
