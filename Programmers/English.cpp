@@ -13,6 +13,7 @@ int main()
     vocabulary["strengths and weaknesses / merits and demerits"] = "장단점";
     vocabulary["embarrassed"] = "당황하다";
     vocabulary["maintain"] = "유지하다 / 주장하다";
+    vocabulary["achieve"] = "달성하다 / 잘 해내다";
 
     for (const auto &entry : vocabulary)
     {
