@@ -16,6 +16,7 @@ int main()
     vocabulary["achieve"] = "달성하다 / 잘 해내다";
     vocabulary["turn into"] = "~으로 변하다";
     vocabulary["familiar"] = "익숙한 / 스스럼없는";
+    vocabulary["aim"] = "조준 / ~을 목표로 하다";
 
     for (const auto &entry : vocabulary)
     {
