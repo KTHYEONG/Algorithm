@@ -18,6 +18,7 @@ int main()
     vocabulary["familiar"] = "익숙한 / 스스럼없는";
     vocabulary["aim"] = "조준 / ~을 목표로 하다";
     vocabulary["immersion"] = "몰입";
+    vocabulary["Even if"] = "~일지라도";
 
     for (const auto &entry : vocabulary)
     {
