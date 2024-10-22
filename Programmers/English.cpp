@@ -19,6 +19,7 @@ int main()
     vocabulary["aim"] = "조준 / ~을 목표로 하다";
     vocabulary["immersion"] = "몰입";
     vocabulary["Even if"] = "~일지라도";
+    vocabulary["Depend on"] = "~에 의존하다 / 확신하다";
 
     for (const auto &entry : vocabulary)
     {
