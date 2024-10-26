@@ -21,6 +21,8 @@ int main()
     vocabulary["Even if"] = "~일지라도";
     vocabulary["Depend on"] = "~에 의존하다 / 확신하다";
     vocabulary["As well"] = "또한 / 역시";
+    vocabulary["Versatile"] = "다재다능한 / 다목적의";
+    vocabulary["Effortless"] = "자연스러운 / 수월해 보이는";
 
     for (const auto &entry : vocabulary)
     {
