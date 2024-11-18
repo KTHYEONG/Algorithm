@@ -23,6 +23,7 @@ int main()
     vocabulary["As well"] = "또한 / 역시";
     vocabulary["Versatile"] = "다재다능한 / 다목적의";
     vocabulary["Effortless"] = "자연스러운 / 수월해 보이는";
+    vocabulary["Stand out"] = "눈에 띄다 / 튀어나오다 / 견디다";
 
     for (const auto &entry : vocabulary)
     {
