@@ -24,6 +24,7 @@ int main()
     vocabulary["Versatile"] = "다재다능한 / 다목적의";
     vocabulary["Effortless"] = "자연스러운 / 수월해 보이는";
     vocabulary["Stand out"] = "눈에 띄다 / 튀어나오다 / 견디다";
+    vocabulary["Outweigh"] = "~ 보다 더 크다 / 대단하다";
 
     for (const auto &entry : vocabulary)
     {
