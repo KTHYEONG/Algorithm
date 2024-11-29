@@ -27,6 +27,7 @@ int main()
     vocabulary["Outweigh"] = "~ 보다 더 크다 / 대단하다";
     vocabulary["Lopsided"] = "한쪽으로 치우친";
     vocabulary["Undesirable"] = "원하지 않는 / 바람직하지 않은";
+    vocabulary["Pale"] = "창백한 / 연한";
 
     for (const auto &entry : vocabulary)
     {
