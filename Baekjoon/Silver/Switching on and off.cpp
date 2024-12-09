@@ -31,7 +31,7 @@ int main()
             }
         }
         // 여자
-        else // 여자
+        else
         {
             int leftIdx = number - 2;
             int rightIdx = number;
