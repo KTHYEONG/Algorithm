@@ -1,0 +1,1 @@
+{"name":"Local: King","url":"c:\\Users\\xogud\\Coding\\Algorithm\\Baekjoon\\Silver\\King.cpp","tests":[{"id":1733895812206,"input":"A1 A2 5\nB\nL\nLB\nRB\nLT","output":"A1\nA2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\xogud\\Coding\\Algorithm\\Baekjoon\\Silver\\King.cpp","group":"local","local":true}
