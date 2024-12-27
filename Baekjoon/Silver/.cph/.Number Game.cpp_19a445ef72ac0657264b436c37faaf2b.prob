@@ -1,0 +1,1 @@
+{"name":"Local: Number Game","url":"c:\\Users\\xogud\\Coding\\Algorithm\\Baekjoon\\Silver\\Number Game.cpp","tests":[{"id":1735275995471,"input":"3\n7 5 5 4 9\n1 1 1 1 1\n2 3 3 2 10","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\xogud\\Coding\\Algorithm\\Baekjoon\\Silver\\Number Game.cpp","group":"local","local":true}
