@@ -1,0 +1,1 @@
+{"name":"Local: Guard","url":"c:\\Users\\xogud\\Coding\\Algorithm\\Baekjoon\\Silver\\Guard.cpp","tests":[{"id":1735706408055,"input":"10 5\n3\n1 4\n3 2\n2 8\n2 3","output":"23"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\xogud\\Coding\\Algorithm\\Baekjoon\\Silver\\Guard.cpp","group":"local","local":true}
