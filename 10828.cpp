@@ -3,8 +3,8 @@
 
 using namespace std;
 
+// Stack
 // Stack의 push, pop, size, empty, top -> 5개의 order 처리
-
 int main()
 {
 	int n;
