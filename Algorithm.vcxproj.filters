@@ -27,5 +27,8 @@
     <ClCompile Include="10773.cpp">
       <Filter>소스 파일\BAEKJOON\Stack</Filter>
     </ClCompile>
+    <ClCompile Include="9012.cpp">
+      <Filter>소스 파일\BAEKJOON\Stack</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
