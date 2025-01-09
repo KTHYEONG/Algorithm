@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\BAEKJOON\Stack">
       <UniqueIdentifier>{6b1e7e70-36e8-40ba-85f4-91270658bc65}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\BAEKJOON\BruteForce">
+      <UniqueIdentifier>{b482417e-e912-4802-a075-aba3de97c862}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="10828.cpp">
@@ -29,6 +32,9 @@
     </ClCompile>
     <ClCompile Include="9012.cpp">
       <Filter>소스 파일\BAEKJOON\Stack</Filter>
+    </ClCompile>
+    <ClCompile Include="1251.cpp">
+      <Filter>소스 파일\BAEKJOON\BruteForce</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
