@@ -16,31 +16,37 @@
     <Filter Include="소스 파일\BAEKJOON">
       <UniqueIdentifier>{35b7ed23-5b87-4a02-98f8-138c9a5b4533}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\BAEKJOON\Stack">
-      <UniqueIdentifier>{6b1e7e70-36e8-40ba-85f4-91270658bc65}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\BAEKJOON\BruteForce">
       <UniqueIdentifier>{b482417e-e912-4802-a075-aba3de97c862}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BAEKJOON\DataStructure">
+      <UniqueIdentifier>{77db0034-c0e8-44e5-ad6d-48920b631364}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BAEKJOON\DataStructure\Stack">
+      <UniqueIdentifier>{6b1e7e70-36e8-40ba-85f4-91270658bc65}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="10828.cpp">
-      <Filter>소스 파일\BAEKJOON\Stack</Filter>
+      <Filter>소스 파일\BAEKJOON\DataStructure\Stack</Filter>
     </ClCompile>
     <ClCompile Include="10773.cpp">
-      <Filter>소스 파일\BAEKJOON\Stack</Filter>
+      <Filter>소스 파일\BAEKJOON\DataStructure\Stack</Filter>
     </ClCompile>
     <ClCompile Include="9012.cpp">
-      <Filter>소스 파일\BAEKJOON\Stack</Filter>
+      <Filter>소스 파일\BAEKJOON\DataStructure\Stack</Filter>
     </ClCompile>
     <ClCompile Include="1251.cpp">
       <Filter>소스 파일\BAEKJOON\BruteForce</Filter>
     </ClCompile>
     <ClCompile Include="17413.cpp">
-      <Filter>소스 파일\BAEKJOON\Stack</Filter>
+      <Filter>소스 파일\BAEKJOON\DataStructure\Stack</Filter>
     </ClCompile>
     <ClCompile Include="1935.cpp">
-      <Filter>소스 파일\BAEKJOON\Stack</Filter>
+      <Filter>소스 파일\BAEKJOON\DataStructure\Stack</Filter>
+    </ClCompile>
+    <ClCompile Include="5397.cpp">
+      <Filter>소스 파일\BAEKJOON\DataStructure</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
