@@ -25,6 +25,9 @@
     <Filter Include="소스 파일\BAEKJOON\DataStructure\Stack">
       <UniqueIdentifier>{6b1e7e70-36e8-40ba-85f4-91270658bc65}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\BAEKJOON\DataStructure\List">
+      <UniqueIdentifier>{bcc6ff18-c585-42b1-90a3-f06b96195d2d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="10828.cpp">
@@ -46,7 +49,10 @@
       <Filter>소스 파일\BAEKJOON\DataStructure\Stack</Filter>
     </ClCompile>
     <ClCompile Include="5397.cpp">
-      <Filter>소스 파일\BAEKJOON\DataStructure</Filter>
+      <Filter>소스 파일\BAEKJOON\DataStructure\List</Filter>
+    </ClCompile>
+    <ClCompile Include="2493.cpp">
+      <Filter>소스 파일\BAEKJOON\DataStructure\Stack</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
