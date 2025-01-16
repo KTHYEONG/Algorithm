@@ -57,5 +57,8 @@
     <ClCompile Include="17298.cpp">
       <Filter>소스 파일\BAEKJOON\DataStructure\Stack</Filter>
     </ClCompile>
+    <ClCompile Include="17299.cpp">
+      <Filter>소스 파일\BAEKJOON\DataStructure\Stack</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
