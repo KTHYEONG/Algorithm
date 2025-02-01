@@ -102,5 +102,8 @@
     <ClCompile Include="2212.cpp">
       <Filter>소스 파일\BAEKJOON\Sorting</Filter>
     </ClCompile>
+    <ClCompile Include="2170.cpp">
+      <Filter>소스 파일\BAEKJOON\Sorting</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
