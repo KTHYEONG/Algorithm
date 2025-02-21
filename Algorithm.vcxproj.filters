@@ -159,5 +159,8 @@
     <ClCompile Include="11286.cpp">
       <Filter>소스 파일\BAEKJOON\DataStructure\Queue</Filter>
     </ClCompile>
+    <ClCompile Include="1717.cpp">
+      <Filter>소스 파일\BAEKJOON\DataStructure</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
