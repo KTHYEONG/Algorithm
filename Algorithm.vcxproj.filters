@@ -172,6 +172,9 @@
       <Filter>소스 파일\BAEKJOON\DataStructure\Set</Filter>
     </ClCompile>
     <ClCompile Include="1406.cpp">
+      <Filter>소스 파일\BAEKJOON\DataStructure\Stack</Filter>
+    </ClCompile>
+    <ClCompile Include="2504.cpp">
       <Filter>소스 파일\BAEKJOON\DataStructure</Filter>
     </ClCompile>
   </ItemGroup>
