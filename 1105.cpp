@@ -2,7 +2,7 @@
 
 using namespace std;
 
-// Arm
+// Eight
 int main()
 {
 	string l, r;
