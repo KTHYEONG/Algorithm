@@ -249,5 +249,8 @@
     <ClCompile Include="1105.cpp">
       <Filter>소스 파일\BAEKJOON\Greedy</Filter>
     </ClCompile>
+    <ClCompile Include="17952.cpp">
+      <Filter>소스 파일\BAEKJOON\DataStructure\Stack</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
