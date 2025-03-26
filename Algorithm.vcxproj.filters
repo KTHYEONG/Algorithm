@@ -252,5 +252,8 @@
     <ClCompile Include="17952.cpp">
       <Filter>소스 파일\BAEKJOON\DataStructure\Stack</Filter>
     </ClCompile>
+    <ClCompile Include="4889.cpp">
+      <Filter>소스 파일\BAEKJOON\DataStructure\Stack</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
