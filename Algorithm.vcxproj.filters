@@ -46,6 +46,9 @@
     <Filter Include="소스 파일\BAEKJOON\Greedy">
       <UniqueIdentifier>{fd151ed3-e987-4fe9-98cb-c095473e2d6a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\BAEKJOON\DataStructure\Tree">
+      <UniqueIdentifier>{0828d5f5-6c68-4f48-9761-91174d90cffa}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="10828.cpp">
@@ -274,7 +277,10 @@
       <Filter>소스 파일\BAEKJOON\DataStructure\Stack</Filter>
     </ClCompile>
     <ClCompile Include="2716.cpp">
-      <Filter>소스 파일\BAEKJOON\DataStructure\Stack</Filter>
+      <Filter>소스 파일\BAEKJOON\DataStructure\Tree</Filter>
+    </ClCompile>
+    <ClCompile Include="25192.cpp">
+      <Filter>소스 파일\BAEKJOON\DataStructure</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
