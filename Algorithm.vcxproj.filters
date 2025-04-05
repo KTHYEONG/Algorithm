@@ -280,6 +280,9 @@
       <Filter>소스 파일\BAEKJOON\DataStructure\Tree</Filter>
     </ClCompile>
     <ClCompile Include="25192.cpp">
+      <Filter>소스 파일\BAEKJOON\DataStructure\Set</Filter>
+    </ClCompile>
+    <ClCompile Include="2304.cpp">
       <Filter>소스 파일\BAEKJOON\DataStructure</Filter>
     </ClCompile>
   </ItemGroup>
