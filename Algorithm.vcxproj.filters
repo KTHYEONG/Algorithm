@@ -49,6 +49,9 @@
     <Filter Include="소스 파일\BAEKJOON\DataStructure\Tree">
       <UniqueIdentifier>{0828d5f5-6c68-4f48-9761-91174d90cffa}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\BAEKJOON\DP">
+      <UniqueIdentifier>{d8783d9c-3d50-4a60-8ac7-b58e50cf67d5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="10828.cpp">
@@ -286,7 +289,10 @@
       <Filter>소스 파일\BAEKJOON\BruteForce</Filter>
     </ClCompile>
     <ClCompile Include="2910.cpp">
-      <Filter>소스 파일\BAEKJOON\DataStructure</Filter>
+      <Filter>소스 파일\BAEKJOON\DataStructure\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="2839.cpp">
+      <Filter>소스 파일\BAEKJOON\DP</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
