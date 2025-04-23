@@ -330,5 +330,8 @@
     <ClCompile Include="11727.cpp">
       <Filter>소스 파일\BAEKJOON\DP</Filter>
     </ClCompile>
+    <ClCompile Include="2156.cpp">
+      <Filter>소스 파일\BAEKJOON\DP</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
