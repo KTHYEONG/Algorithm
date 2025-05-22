@@ -403,6 +403,9 @@
       <Filter>소스 파일\BAEKJOON\Sorting</Filter>
     </ClCompile>
     <ClCompile Include="2075.cpp">
+      <Filter>소스 파일\BAEKJOON\DataStructure\Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="11652.cpp">
       <Filter>소스 파일\BAEKJOON\Sorting</Filter>
     </ClCompile>
   </ItemGroup>
