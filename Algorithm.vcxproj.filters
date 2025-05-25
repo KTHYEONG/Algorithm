@@ -414,5 +414,8 @@
     <ClCompile Include="7795.cpp">
       <Filter>소스 파일\BAEKJOON\Sorting</Filter>
     </ClCompile>
+    <ClCompile Include="1822.cpp">
+      <Filter>소스 파일\BAEKJOON\DataStructure\Set</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
