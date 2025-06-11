@@ -439,7 +439,7 @@
       <Filter>소스 파일\BAEKJOON</Filter>
     </ClCompile>
     <ClCompile Include="1158.cpp">
-      <Filter>소스 파일\BAEKJOON</Filter>
+      <Filter>소스 파일\BAEKJOON\DataStructure\Queue</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
