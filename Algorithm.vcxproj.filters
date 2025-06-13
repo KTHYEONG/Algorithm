@@ -445,7 +445,10 @@
       <Filter>소스 파일\BAEKJOON\DataStructure\Queue</Filter>
     </ClCompile>
     <ClCompile Include="1051.cpp">
-      <Filter>소스 파일\BAEKJOON</Filter>
+      <Filter>소스 파일\BAEKJOON\BruteForce</Filter>
+    </ClCompile>
+    <ClCompile Include="1235.cpp">
+      <Filter>소스 파일\BAEKJOON\BruteForce</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
