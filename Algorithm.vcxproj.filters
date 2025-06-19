@@ -460,7 +460,7 @@
       <Filter>소스 파일\BAEKJOON</Filter>
     </ClCompile>
     <ClCompile Include="1969.cpp">
-      <Filter>소스 파일\BAEKJOON</Filter>
+      <Filter>소스 파일\BAEKJOON\BruteForce</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
