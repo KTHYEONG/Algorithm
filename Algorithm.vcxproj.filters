@@ -477,5 +477,11 @@
     <ClCompile Include="1065.cpp">
       <Filter>소스 파일\BAEKJOON\BruteForce</Filter>
     </ClCompile>
+    <ClCompile Include="1182.cpp">
+      <Filter>소스 파일\BAEKJOON\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="2003.cpp">
+      <Filter>소스 파일\BAEKJOON\BruteForce</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
