@@ -517,6 +517,9 @@
       <Filter>소스 파일\BAEKJOON\Sorting</Filter>
     </ClCompile>
     <ClCompile Include="2659.cpp">
+      <Filter>소스 파일\BAEKJOON</Filter>
+    </ClCompile>
+    <ClCompile Include="1246.cpp">
       <Filter>소스 파일\BAEKJOON\Sorting</Filter>
     </ClCompile>
   </ItemGroup>
