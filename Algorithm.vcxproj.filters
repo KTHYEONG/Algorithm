@@ -568,6 +568,9 @@
       <Filter>소스 파일\BAEKJOON\DP</Filter>
     </ClCompile>
     <ClCompile Include="4659.cpp">
+      <Filter>소스 파일\BAEKJOON</Filter>
+    </ClCompile>
+    <ClCompile Include="15624.cpp">
       <Filter>소스 파일\BAEKJOON\DP</Filter>
     </ClCompile>
   </ItemGroup>
