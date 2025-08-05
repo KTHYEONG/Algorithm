@@ -579,5 +579,8 @@
     <ClCompile Include="8394.cpp">
       <Filter>소스 파일\BAEKJOON\DP</Filter>
     </ClCompile>
+    <ClCompile Include="1057.cpp">
+      <Filter>소스 파일\BAEKJOON\BruteForce</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
