@@ -607,6 +607,9 @@
       <Filter>소스 파일\BAEKJOON\DP</Filter>
     </ClCompile>
     <ClCompile Include="18429.cpp">
+      <Filter>소스 파일\BAEKJOON\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="18511.cpp">
       <Filter>소스 파일\BAEKJOON\BruteForce</Filter>
     </ClCompile>
   </ItemGroup>
