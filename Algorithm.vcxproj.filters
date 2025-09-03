@@ -1,658 +1,206 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Filter Include="소스 파일">
-      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
-      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
-    </Filter>
-    <Filter Include="헤더 파일">
-      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
-      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
-    </Filter>
-    <Filter Include="리소스 파일">
-      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
-      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
-    </Filter>
-    <Filter Include="소스 파일\BAEKJOON">
-      <UniqueIdentifier>{35b7ed23-5b87-4a02-98f8-138c9a5b4533}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\BAEKJOON\BruteForce">
-      <UniqueIdentifier>{b482417e-e912-4802-a075-aba3de97c862}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\BAEKJOON\DataStructure">
-      <UniqueIdentifier>{77db0034-c0e8-44e5-ad6d-48920b631364}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\BAEKJOON\DataStructure\Stack">
-      <UniqueIdentifier>{6b1e7e70-36e8-40ba-85f4-91270658bc65}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\BAEKJOON\DataStructure\List">
-      <UniqueIdentifier>{bcc6ff18-c585-42b1-90a3-f06b96195d2d}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\BAEKJOON\Sorting">
-      <UniqueIdentifier>{c81433cd-a68d-4e43-b03f-ccd22921ac7e}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\BAEKJOON\Graph">
-      <UniqueIdentifier>{73136b86-9160-4012-b7a8-37ae335ab4fc}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\BAEKJOON\DataStructure\Queue">
-      <UniqueIdentifier>{8b18ffb5-91b2-4f7b-869e-aad50902d6fb}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\BAEKJOON\DataStructure\Set">
-      <UniqueIdentifier>{86d2f313-459c-420f-9216-96efaac42acc}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\BAEKJOON\DataStructure\Map">
-      <UniqueIdentifier>{a82f3d3a-6486-49fe-9101-7888a31a5e04}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\BAEKJOON\Greedy">
-      <UniqueIdentifier>{fd151ed3-e987-4fe9-98cb-c095473e2d6a}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\BAEKJOON\DataStructure\Tree">
-      <UniqueIdentifier>{0828d5f5-6c68-4f48-9761-91174d90cffa}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\BAEKJOON\DP">
-      <UniqueIdentifier>{d8783d9c-3d50-4a60-8ac7-b58e50cf67d5}</UniqueIdentifier>
-    </Filter>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="10828.cpp">
-      <Filter>소스 파일\BAEKJOON\DataStructure\Stack</Filter>
-    </ClCompile>
-    <ClCompile Include="10773.cpp">
-      <Filter>소스 파일\BAEKJOON\DataStructure\Stack</Filter>
-    </ClCompile>
-    <ClCompile Include="9012.cpp">
-      <Filter>소스 파일\BAEKJOON\DataStructure\Stack</Filter>
-    </ClCompile>
-    <ClCompile Include="1251.cpp">
-      <Filter>소스 파일\BAEKJOON\BruteForce</Filter>
-    </ClCompile>
-    <ClCompile Include="17413.cpp">
-      <Filter>소스 파일\BAEKJOON\DataStructure\Stack</Filter>
-    </ClCompile>
-    <ClCompile Include="1935.cpp">
-      <Filter>소스 파일\BAEKJOON\DataStructure\Stack</Filter>
-    </ClCompile>
-    <ClCompile Include="5397.cpp">
-      <Filter>소스 파일\BAEKJOON\DataStructure\List</Filter>
-    </ClCompile>
-    <ClCompile Include="2493.cpp">
-      <Filter>소스 파일\BAEKJOON\DataStructure\Stack</Filter>
-    </ClCompile>
-    <ClCompile Include="17298.cpp">
-      <Filter>소스 파일\BAEKJOON\DataStructure\Stack</Filter>
-    </ClCompile>
-    <ClCompile Include="17299.cpp">
-      <Filter>소스 파일\BAEKJOON\DataStructure\Stack</Filter>
-    </ClCompile>
-    <ClCompile Include="2812.cpp">
-      <Filter>소스 파일\BAEKJOON\DataStructure\Stack</Filter>
-    </ClCompile>
-    <ClCompile Include="1918.cpp">
-      <Filter>소스 파일\BAEKJOON\DataStructure\Stack</Filter>
-    </ClCompile>
-    <ClCompile Include="16120.cpp">
-      <Filter>소스 파일\BAEKJOON\DataStructure\Stack</Filter>
-    </ClCompile>
-    <ClCompile Include="10825.cpp">
-      <Filter>소스 파일\BAEKJOON\Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="18870.cpp">
-      <Filter>소스 파일\BAEKJOON\Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="1931.cpp">
-      <Filter>소스 파일\BAEKJOON\Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="1744.cpp">
-      <Filter>소스 파일\BAEKJOON\Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="11000.cpp">
-      <Filter>소스 파일\BAEKJOON\Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="2470.cpp">
-      <Filter>소스 파일\BAEKJOON\Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="5052.cpp">
-      <Filter>소스 파일\BAEKJOON\Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="1202.cpp">
-      <Filter>소스 파일\BAEKJOON\Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="3273.cpp">
-      <Filter>소스 파일\BAEKJOON\Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="2212.cpp">
-      <Filter>소스 파일\BAEKJOON\Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="2170.cpp">
-      <Filter>소스 파일\BAEKJOON\Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="1431.cpp">
-      <Filter>소스 파일\BAEKJOON\Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="2606.cpp">
-      <Filter>소스 파일\BAEKJOON\Graph</Filter>
-    </ClCompile>
-    <ClCompile Include="1012.cpp">
-      <Filter>소스 파일\BAEKJOON\Graph</Filter>
-    </ClCompile>
-    <ClCompile Include="2178.cpp">
-      <Filter>소스 파일\BAEKJOON\Graph</Filter>
-    </ClCompile>
-    <ClCompile Include="7576.cpp">
-      <Filter>소스 파일\BAEKJOON\Graph</Filter>
-    </ClCompile>
-    <ClCompile Include="1987.cpp">
-      <Filter>소스 파일\BAEKJOON\Graph</Filter>
-    </ClCompile>
-    <ClCompile Include="1753.cpp">
-      <Filter>소스 파일\BAEKJOON\Graph</Filter>
-    </ClCompile>
-    <ClCompile Include="7569.cpp">
-      <Filter>소스 파일\BAEKJOON\Graph</Filter>
-    </ClCompile>
-    <ClCompile Include="11404.cpp">
-      <Filter>소스 파일\BAEKJOON\Graph</Filter>
-    </ClCompile>
-    <ClCompile Include="16234.cpp">
-      <Filter>소스 파일\BAEKJOON\Graph</Filter>
-    </ClCompile>
-    <ClCompile Include="2468.cpp">
-      <Filter>소스 파일\BAEKJOON\Graph</Filter>
-    </ClCompile>
-    <ClCompile Include="1926.cpp">
-      <Filter>소스 파일\BAEKJOON\Graph</Filter>
-    </ClCompile>
-    <ClCompile Include="1916.cpp">
-      <Filter>소스 파일\BAEKJOON\Graph</Filter>
-    </ClCompile>
-    <ClCompile Include="1927.cpp">
-      <Filter>소스 파일\BAEKJOON\DataStructure\Queue</Filter>
-    </ClCompile>
-    <ClCompile Include="5430.cpp">
-      <Filter>소스 파일\BAEKJOON\DataStructure\Queue</Filter>
-    </ClCompile>
-    <ClCompile Include="11286.cpp">
-      <Filter>소스 파일\BAEKJOON\DataStructure\Queue</Filter>
-    </ClCompile>
-    <ClCompile Include="1717.cpp">
-      <Filter>소스 파일\BAEKJOON\DataStructure\Set</Filter>
-    </ClCompile>
-    <ClCompile Include="9935.cpp">
-      <Filter>소스 파일\BAEKJOON\DataStructure\Stack</Filter>
-    </ClCompile>
-    <ClCompile Include="1043.cpp">
-      <Filter>소스 파일\BAEKJOON\DataStructure\Set</Filter>
-    </ClCompile>
-    <ClCompile Include="1406.cpp">
-      <Filter>소스 파일\BAEKJOON\DataStructure\Stack</Filter>
-    </ClCompile>
-    <ClCompile Include="2504.cpp">
-      <Filter>소스 파일\BAEKJOON\DataStructure\Stack</Filter>
-    </ClCompile>
-    <ClCompile Include="20920.cpp">
-      <Filter>소스 파일\BAEKJOON\DataStructure\Map</Filter>
-    </ClCompile>
-    <ClCompile Include="11478.cpp">
-      <Filter>소스 파일\BAEKJOON\DataStructure\Set</Filter>
-    </ClCompile>
-    <ClCompile Include="20291.cpp">
-      <Filter>소스 파일\BAEKJOON\DataStructure\Map</Filter>
-    </ClCompile>
-    <ClCompile Include="13335.cpp">
-      <Filter>소스 파일\BAEKJOON\DataStructure\Queue</Filter>
-    </ClCompile>
-    <ClCompile Include="1541.cpp">
-      <Filter>소스 파일\BAEKJOON\Greedy</Filter>
-    </ClCompile>
-    <ClCompile Include="2217.cpp">
-      <Filter>소스 파일\BAEKJOON\Greedy</Filter>
-    </ClCompile>
-    <ClCompile Include="1138.cpp">
-      <Filter>소스 파일\BAEKJOON\Greedy</Filter>
-    </ClCompile>
-    <ClCompile Include="1080.cpp">
-      <Filter>소스 파일\BAEKJOON\Greedy</Filter>
-    </ClCompile>
-    <ClCompile Include="1946.cpp">
-      <Filter>소스 파일\BAEKJOON\Greedy</Filter>
-    </ClCompile>
-    <ClCompile Include="15903.cpp">
-      <Filter>소스 파일\BAEKJOON\DataStructure\Queue</Filter>
-    </ClCompile>
-    <ClCompile Include="16953.cpp">
-      <Filter>소스 파일\BAEKJOON\Graph</Filter>
-    </ClCompile>
-    <ClCompile Include="1339.cpp">
-      <Filter>소스 파일\BAEKJOON\Greedy</Filter>
-    </ClCompile>
-    <ClCompile Include="13305.cpp">
-      <Filter>소스 파일\BAEKJOON\Greedy</Filter>
-    </ClCompile>
-    <ClCompile Include="10610.cpp">
-      <Filter>소스 파일\BAEKJOON\Greedy</Filter>
-    </ClCompile>
-    <ClCompile Include="11501.cpp">
-      <Filter>소스 파일\BAEKJOON\Greedy</Filter>
-    </ClCompile>
-    <ClCompile Include="1049.cpp">
-      <Filter>소스 파일\BAEKJOON\Greedy</Filter>
-    </ClCompile>
-    <ClCompile Include="2012.cpp">
-      <Filter>소스 파일\BAEKJOON\Greedy</Filter>
-    </ClCompile>
-    <ClCompile Include="19941.cpp">
-      <Filter>소스 파일\BAEKJOON\Greedy</Filter>
-    </ClCompile>
-    <ClCompile Include="18310.cpp">
-      <Filter>소스 파일\BAEKJOON\Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="1449.cpp">
-      <Filter>소스 파일\BAEKJOON\Greedy</Filter>
-    </ClCompile>
-    <ClCompile Include="1448.cpp">
-      <Filter>소스 파일\BAEKJOON\Greedy</Filter>
-    </ClCompile>
-    <ClCompile Include="1105.cpp">
-      <Filter>소스 파일\BAEKJOON\Greedy</Filter>
-    </ClCompile>
-    <ClCompile Include="17952.cpp">
-      <Filter>소스 파일\BAEKJOON\DataStructure\Stack</Filter>
-    </ClCompile>
-    <ClCompile Include="4889.cpp">
-      <Filter>소스 파일\BAEKJOON\DataStructure\Stack</Filter>
-    </ClCompile>
-    <ClCompile Include="1662.cpp">
-      <Filter>소스 파일\BAEKJOON\DataStructure\Stack</Filter>
-    </ClCompile>
-    <ClCompile Include="6198.cpp">
-      <Filter>소스 파일\BAEKJOON\DataStructure\Stack</Filter>
-    </ClCompile>
-    <ClCompile Include="2841.cpp">
-      <Filter>소스 파일\BAEKJOON\DataStructure\Stack</Filter>
-    </ClCompile>
-    <ClCompile Include="15815.cpp">
-      <Filter>소스 파일\BAEKJOON\DataStructure\Stack</Filter>
-    </ClCompile>
-    <ClCompile Include="27497.cpp">
-      <Filter>소스 파일\BAEKJOON\DataStructure\Stack</Filter>
-    </ClCompile>
-    <ClCompile Include="25918.cpp">
-      <Filter>소스 파일\BAEKJOON\DataStructure\Stack</Filter>
-    </ClCompile>
-    <ClCompile Include="2716.cpp">
-      <Filter>소스 파일\BAEKJOON\DataStructure\Tree</Filter>
-    </ClCompile>
-    <ClCompile Include="25192.cpp">
-      <Filter>소스 파일\BAEKJOON\DataStructure\Set</Filter>
-    </ClCompile>
-    <ClCompile Include="2304.cpp">
-      <Filter>소스 파일\BAEKJOON\BruteForce</Filter>
-    </ClCompile>
-    <ClCompile Include="2910.cpp">
-      <Filter>소스 파일\BAEKJOON\DataStructure\Map</Filter>
-    </ClCompile>
-    <ClCompile Include="2839.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="1463.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="9095.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="1003.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="11726.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="2579.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="1149.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="11053.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="1932.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="1010.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="9461.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="1912.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="11727.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="2156.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="10844.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="14501.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="2193.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="11660.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="1904.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="9465.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="11052.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="11057.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="11055.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="9655.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="1260.cpp">
-      <Filter>소스 파일\BAEKJOON\Graph</Filter>
-    </ClCompile>
-    <ClCompile Include="2667.cpp">
-      <Filter>소스 파일\BAEKJOON\Graph</Filter>
-    </ClCompile>
-    <ClCompile Include="1697.cpp">
-      <Filter>소스 파일\BAEKJOON\Graph</Filter>
-    </ClCompile>
-    <ClCompile Include="11724.cpp">
-      <Filter>소스 파일\BAEKJOON\Graph</Filter>
-    </ClCompile>
-    <ClCompile Include="11725.cpp">
-      <Filter>소스 파일\BAEKJOON\Graph</Filter>
-    </ClCompile>
-    <ClCompile Include="4963.cpp">
-      <Filter>소스 파일\BAEKJOON\Graph</Filter>
-    </ClCompile>
-    <ClCompile Include="7562.cpp">
-      <Filter>소스 파일\BAEKJOON\Graph</Filter>
-    </ClCompile>
-    <ClCompile Include="11403.cpp">
-      <Filter>소스 파일\BAEKJOON\Graph</Filter>
-    </ClCompile>
-    <ClCompile Include="2583.cpp">
-      <Filter>소스 파일\BAEKJOON\Graph</Filter>
-    </ClCompile>
-    <ClCompile Include="2644.cpp">
-      <Filter>소스 파일\BAEKJOON\Graph</Filter>
-    </ClCompile>
-    <ClCompile Include="5014.cpp">
-      <Filter>소스 파일\BAEKJOON\Graph</Filter>
-    </ClCompile>
-    <ClCompile Include="18352.cpp">
-      <Filter>소스 파일\BAEKJOON\Graph</Filter>
-    </ClCompile>
-    <ClCompile Include="2108.cpp">
-      <Filter>소스 파일\BAEKJOON\Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="2075.cpp">
-      <Filter>소스 파일\BAEKJOON\DataStructure\Queue</Filter>
-    </ClCompile>
-    <ClCompile Include="11652.cpp">
-      <Filter>소스 파일\BAEKJOON\Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="2776.cpp">
-      <Filter>소스 파일\BAEKJOON\Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="7795.cpp">
-      <Filter>소스 파일\BAEKJOON\Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="1822.cpp">
-      <Filter>소스 파일\BAEKJOON\DataStructure\Set</Filter>
-    </ClCompile>
-    <ClCompile Include="9148.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="1495.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="1446.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="10164.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="18353.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="11722.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="2563.cpp">
-      <Filter>소스 파일\BAEKJOON</Filter>
-    </ClCompile>
-    <ClCompile Include="1158.cpp">
-      <Filter>소스 파일\BAEKJOON\DataStructure\Queue</Filter>
-    </ClCompile>
-    <ClCompile Include="1966.cpp">
-      <Filter>소스 파일\BAEKJOON\DataStructure\Queue</Filter>
-    </ClCompile>
-    <ClCompile Include="1051.cpp">
-      <Filter>소스 파일\BAEKJOON\BruteForce</Filter>
-    </ClCompile>
-    <ClCompile Include="1235.cpp">
-      <Filter>소스 파일\BAEKJOON\BruteForce</Filter>
-    </ClCompile>
-    <ClCompile Include="1531.cpp">
-      <Filter>소스 파일\BAEKJOON</Filter>
-    </ClCompile>
-    <ClCompile Include="2578.cpp">
-      <Filter>소스 파일\BAEKJOON</Filter>
-    </ClCompile>
-    <ClCompile Include="2960.cpp">
-      <Filter>소스 파일\BAEKJOON</Filter>
-    </ClCompile>
-    <ClCompile Include="1969.cpp">
-      <Filter>소스 파일\BAEKJOON\BruteForce</Filter>
-    </ClCompile>
-    <ClCompile Include="1783.cpp">
-      <Filter>소스 파일\BAEKJOON</Filter>
-    </ClCompile>
-    <ClCompile Include="10973.cpp">
-      <Filter>소스 파일\BAEKJOON</Filter>
-    </ClCompile>
-    <ClCompile Include="1018.cpp">
-      <Filter>소스 파일\BAEKJOON\BruteForce</Filter>
-    </ClCompile>
-    <ClCompile Include="1193.cpp">
-      <Filter>소스 파일\BAEKJOON</Filter>
-    </ClCompile>
-    <ClCompile Include="1065.cpp">
-      <Filter>소스 파일\BAEKJOON\BruteForce</Filter>
-    </ClCompile>
-    <ClCompile Include="1182.cpp">
-      <Filter>소스 파일\BAEKJOON\Graph</Filter>
-    </ClCompile>
-    <ClCompile Include="2003.cpp">
-      <Filter>소스 파일\BAEKJOON\BruteForce</Filter>
-    </ClCompile>
-    <ClCompile Include="10974.cpp">
-      <Filter>소스 파일\BAEKJOON\BruteForce</Filter>
-    </ClCompile>
-    <ClCompile Include="1120.cpp">
-      <Filter>소스 파일\BAEKJOON\BruteForce</Filter>
-    </ClCompile>
-    <ClCompile Include="3085.cpp">
-      <Filter>소스 파일\BAEKJOON\BruteForce</Filter>
-    </ClCompile>
-    <ClCompile Include="11004.cpp">
-      <Filter>소스 파일\BAEKJOON\Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="1059.cpp">
-      <Filter>소스 파일\BAEKJOON\Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="2548.cpp">
-      <Filter>소스 파일\BAEKJOON\Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="11497.cpp">
-      <Filter>소스 파일\BAEKJOON\Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="1758.cpp">
-      <Filter>소스 파일\BAEKJOON\Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="1755.cpp">
-      <Filter>소스 파일\BAEKJOON\Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="10867.cpp">
-      <Filter>소스 파일\BAEKJOON\Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="1485.cpp">
-      <Filter>소스 파일\BAEKJOON\Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="2659.cpp">
-      <Filter>소스 파일\BAEKJOON</Filter>
-    </ClCompile>
-    <ClCompile Include="1246.cpp">
-      <Filter>소스 파일\BAEKJOON\Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="1337.cpp">
-      <Filter>소스 파일\BAEKJOON\Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="1015.cpp">
-      <Filter>소스 파일\BAEKJOON\Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="12865.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="9251.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="9252.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="2293.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="2294.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="2225.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="11054.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="14002.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="15989.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="9084.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="13699.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="9507.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="1793.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="4659.cpp">
-      <Filter>소스 파일\BAEKJOON</Filter>
-    </ClCompile>
-    <ClCompile Include="15624.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="2302.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="8394.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="1057.cpp">
-      <Filter>소스 파일\BAEKJOON\BruteForce</Filter>
-    </ClCompile>
-    <ClCompile Include="1747.cpp">
-      <Filter>소스 파일\BAEKJOON\BruteForce</Filter>
-    </ClCompile>
-    <ClCompile Include="2503.cpp">
-      <Filter>소스 파일\BAEKJOON\BruteForce</Filter>
-    </ClCompile>
-    <ClCompile Include="4375.cpp">
-      <Filter>소스 파일\BAEKJOON\BruteForce</Filter>
-    </ClCompile>
-    <ClCompile Include="5568.cpp">
-      <Filter>소스 파일\BAEKJOON\Graph</Filter>
-    </ClCompile>
-    <ClCompile Include="1058.cpp">
-      <Filter>소스 파일\BAEKJOON\Graph</Filter>
-    </ClCompile>
-    <ClCompile Include="16173.cpp">
-      <Filter>소스 파일\BAEKJOON\Graph</Filter>
-    </ClCompile>
-    <ClCompile Include="2992.cpp">
-      <Filter>소스 파일\BAEKJOON\BruteForce</Filter>
-    </ClCompile>
-    <ClCompile Include="17848.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="18429.cpp">
-      <Filter>소스 파일\BAEKJOON\Graph</Filter>
-    </ClCompile>
-    <ClCompile Include="18511.cpp">
-      <Filter>소스 파일\BAEKJOON\BruteForce</Filter>
-    </ClCompile>
-    <ClCompile Include="5555.cpp">
-      <Filter>소스 파일\BAEKJOON\BruteForce</Filter>
-    </ClCompile>
-    <ClCompile Include="14940.cpp">
-      <Filter>소스 파일\BAEKJOON\Graph</Filter>
-    </ClCompile>
-    <ClCompile Include="25418.cpp">
-      <Filter>소스 파일\BAEKJOON\Graph</Filter>
-    </ClCompile>
-    <ClCompile Include="10451.cpp">
-      <Filter>소스 파일\BAEKJOON\Graph</Filter>
-    </ClCompile>
-    <ClCompile Include="17086.cpp">
-      <Filter>소스 파일\BAEKJOON\Graph</Filter>
-    </ClCompile>
-    <ClCompile Include="16948.cpp">
-      <Filter>소스 파일\BAEKJOON\Graph</Filter>
-    </ClCompile>
-    <ClCompile Include="10026.cpp">
-      <Filter>소스 파일\BAEKJOON\Graph</Filter>
-    </ClCompile>
-    <ClCompile Include="13565.cpp">
-      <Filter>소스 파일\BAEKJOON\Graph</Filter>
-    </ClCompile>
-    <ClCompile Include="1325.cpp">
-      <Filter>소스 파일\BAEKJOON\Graph</Filter>
-    </ClCompile>
-    <ClCompile Include="9372.cpp">
-      <Filter>소스 파일\BAEKJOON\Graph</Filter>
-    </ClCompile>
-    <ClCompile Include="17204.cpp">
-      <Filter>소스 파일\BAEKJOON\Graph</Filter>
-    </ClCompile>
-    <ClCompile Include="14248.cpp">
-      <Filter>소스 파일\BAEKJOON\Graph</Filter>
-    </ClCompile>
-    <ClCompile Include="15489.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
-    <ClCompile Include="14494.cpp">
-      <Filter>소스 파일\BAEKJOON\DP</Filter>
-    </ClCompile>
+    <ClCompile Include="10026.cpp" />
+    <ClCompile Include="1003.cpp" />
+    <ClCompile Include="1010.cpp" />
+    <ClCompile Include="1012.cpp" />
+    <ClCompile Include="1015.cpp" />
+    <ClCompile Include="10164.cpp" />
+    <ClCompile Include="1018.cpp" />
+    <ClCompile Include="1043.cpp" />
+    <ClCompile Include="10451.cpp" />
+    <ClCompile Include="1049.cpp" />
+    <ClCompile Include="1051.cpp" />
+    <ClCompile Include="1057.cpp" />
+    <ClCompile Include="1058.cpp" />
+    <ClCompile Include="1059.cpp" />
+    <ClCompile Include="10610.cpp" />
+    <ClCompile Include="1065.cpp" />
+    <ClCompile Include="10773.cpp" />
+    <ClCompile Include="1080.cpp" />
+    <ClCompile Include="10825.cpp" />
+    <ClCompile Include="10828.cpp" />
+    <ClCompile Include="10844.cpp" />
+    <ClCompile Include="10867.cpp" />
+    <ClCompile Include="10973.cpp" />
+    <ClCompile Include="10974.cpp" />
+    <ClCompile Include="11000.cpp" />
+    <ClCompile Include="11004.cpp" />
+    <ClCompile Include="1105.cpp" />
+    <ClCompile Include="11052.cpp" />
+    <ClCompile Include="11053.cpp" />
+    <ClCompile Include="11054.cpp" />
+    <ClCompile Include="11055.cpp" />
+    <ClCompile Include="11057.cpp" />
+    <ClCompile Include="1120.cpp" />
+    <ClCompile Include="11286.cpp" />
+    <ClCompile Include="1138.cpp" />
+    <ClCompile Include="11403.cpp" />
+    <ClCompile Include="11404.cpp" />
+    <ClCompile Include="11478.cpp" />
+    <ClCompile Include="1149.cpp" />
+    <ClCompile Include="11497.cpp" />
+    <ClCompile Include="11501.cpp" />
+    <ClCompile Include="1158.cpp" />
+    <ClCompile Include="11652.cpp" />
+    <ClCompile Include="11660.cpp" />
+    <ClCompile Include="11722.cpp" />
+    <ClCompile Include="11724.cpp" />
+    <ClCompile Include="11725.cpp" />
+    <ClCompile Include="11726.cpp" />
+    <ClCompile Include="11727.cpp" />
+    <ClCompile Include="1182.cpp" />
+    <ClCompile Include="1193.cpp" />
+    <ClCompile Include="1202.cpp" />
+    <ClCompile Include="1235.cpp" />
+    <ClCompile Include="1246.cpp" />
+    <ClCompile Include="1251.cpp" />
+    <ClCompile Include="1260.cpp" />
+    <ClCompile Include="12865.cpp" />
+    <ClCompile Include="1325.cpp" />
+    <ClCompile Include="13305.cpp" />
+    <ClCompile Include="13335.cpp" />
+    <ClCompile Include="1337.cpp" />
+    <ClCompile Include="1339.cpp" />
+    <ClCompile Include="13565.cpp" />
+    <ClCompile Include="13699.cpp" />
+    <ClCompile Include="14002.cpp" />
+    <ClCompile Include="1406.cpp" />
+    <ClCompile Include="14248.cpp" />
+    <ClCompile Include="1431.cpp" />
+    <ClCompile Include="1446.cpp" />
+    <ClCompile Include="1448.cpp" />
+    <ClCompile Include="1449.cpp" />
+    <ClCompile Include="14494.cpp" />
+    <ClCompile Include="14501.cpp" />
+    <ClCompile Include="1463.cpp" />
+    <ClCompile Include="1485.cpp" />
+    <ClCompile Include="14940.cpp" />
+    <ClCompile Include="1495.cpp" />
+    <ClCompile Include="1531.cpp" />
+    <ClCompile Include="1541.cpp" />
+    <ClCompile Include="15489.cpp" />
+    <ClCompile Include="15624.cpp" />
+    <ClCompile Include="15815.cpp" />
+    <ClCompile Include="15903.cpp" />
+    <ClCompile Include="15989.cpp" />
+    <ClCompile Include="16120.cpp" />
+    <ClCompile Include="16173.cpp" />
+    <ClCompile Include="16234.cpp" />
+    <ClCompile Include="1662.cpp" />
+    <ClCompile Include="16948.cpp" />
+    <ClCompile Include="16953.cpp" />
+    <ClCompile Include="1697.cpp" />
+    <ClCompile Include="17086.cpp" />
+    <ClCompile Include="1717.cpp" />
+    <ClCompile Include="17204.cpp" />
+    <ClCompile Include="17298.cpp" />
+    <ClCompile Include="17299.cpp" />
+    <ClCompile Include="17413.cpp" />
+    <ClCompile Include="1744.cpp" />
+    <ClCompile Include="1747.cpp" />
+    <ClCompile Include="1753.cpp" />
+    <ClCompile Include="1755.cpp" />
+    <ClCompile Include="1758.cpp" />
+    <ClCompile Include="1783.cpp" />
+    <ClCompile Include="17848.cpp" />
+    <ClCompile Include="1793.cpp" />
+    <ClCompile Include="17952.cpp" />
+    <ClCompile Include="1822.cpp" />
+    <ClCompile Include="18310.cpp" />
+    <ClCompile Include="18352.cpp" />
+    <ClCompile Include="18353.cpp" />
+    <ClCompile Include="18429.cpp" />
+    <ClCompile Include="18511.cpp" />
+    <ClCompile Include="18870.cpp" />
+    <ClCompile Include="1904.cpp" />
+    <ClCompile Include="1912.cpp" />
+    <ClCompile Include="1916.cpp" />
+    <ClCompile Include="1918.cpp" />
+    <ClCompile Include="1926.cpp" />
+    <ClCompile Include="1927.cpp" />
+    <ClCompile Include="1931.cpp" />
+    <ClCompile Include="1932.cpp" />
+    <ClCompile Include="1935.cpp" />
+    <ClCompile Include="1946.cpp" />
+    <ClCompile Include="1966.cpp" />
+    <ClCompile Include="1969.cpp" />
+    <ClCompile Include="1987.cpp" />
+    <ClCompile Include="19941.cpp" />
+    <ClCompile Include="2003.cpp" />
+    <ClCompile Include="2012.cpp" />
+    <ClCompile Include="20291.cpp" />
+    <ClCompile Include="2075.cpp" />
+    <ClCompile Include="20920.cpp" />
+    <ClCompile Include="2108.cpp" />
+    <ClCompile Include="2156.cpp" />
+    <ClCompile Include="2170.cpp" />
+    <ClCompile Include="2178.cpp" />
+    <ClCompile Include="2193.cpp" />
+    <ClCompile Include="2212.cpp" />
+    <ClCompile Include="2217.cpp" />
+    <ClCompile Include="2225.cpp" />
+    <ClCompile Include="2293.cpp" />
+    <ClCompile Include="2294.cpp" />
+    <ClCompile Include="2302.cpp" />
+    <ClCompile Include="2304.cpp" />
+    <ClCompile Include="2468.cpp" />
+    <ClCompile Include="2470.cpp" />
+    <ClCompile Include="2493.cpp" />
+    <ClCompile Include="2503.cpp" />
+    <ClCompile Include="2504.cpp" />
+    <ClCompile Include="25192.cpp" />
+    <ClCompile Include="25418.cpp" />
+    <ClCompile Include="2548.cpp" />
+    <ClCompile Include="2563.cpp" />
+    <ClCompile Include="2578.cpp" />
+    <ClCompile Include="2579.cpp" />
+    <ClCompile Include="2583.cpp" />
+    <ClCompile Include="25918.cpp" />
+    <ClCompile Include="2606.cpp" />
+    <ClCompile Include="2644.cpp" />
+    <ClCompile Include="2659.cpp" />
+    <ClCompile Include="2667.cpp" />
+    <ClCompile Include="2716.cpp" />
+    <ClCompile Include="27497.cpp" />
+    <ClCompile Include="2776.cpp" />
+    <ClCompile Include="2812.cpp" />
+    <ClCompile Include="2839.cpp" />
+    <ClCompile Include="2841.cpp" />
+    <ClCompile Include="2910.cpp" />
+    <ClCompile Include="2960.cpp" />
+    <ClCompile Include="2992.cpp" />
+    <ClCompile Include="3085.cpp" />
+    <ClCompile Include="3273.cpp" />
+    <ClCompile Include="4375.cpp" />
+    <ClCompile Include="4659.cpp" />
+    <ClCompile Include="4883.cpp" />
+    <ClCompile Include="4889.cpp" />
+    <ClCompile Include="4963.cpp" />
+    <ClCompile Include="5014.cpp" />
+    <ClCompile Include="5052.cpp" />
+    <ClCompile Include="5397.cpp" />
+    <ClCompile Include="5430.cpp" />
+    <ClCompile Include="5555.cpp" />
+    <ClCompile Include="5568.cpp" />
+    <ClCompile Include="6198.cpp" />
+    <ClCompile Include="7562.cpp" />
+    <ClCompile Include="7569.cpp" />
+    <ClCompile Include="7576.cpp" />
+    <ClCompile Include="7795.cpp" />
+    <ClCompile Include="8394.cpp" />
+    <ClCompile Include="9012.cpp" />
+    <ClCompile Include="9084.cpp" />
+    <ClCompile Include="9095.cpp" />
+    <ClCompile Include="9148.cpp" />
+    <ClCompile Include="9251.cpp" />
+    <ClCompile Include="9252.cpp" />
+    <ClCompile Include="9372.cpp" />
+    <ClCompile Include="9461.cpp" />
+    <ClCompile Include="9465.cpp" />
+    <ClCompile Include="9507.cpp" />
+    <ClCompile Include="9655.cpp" />
+    <ClCompile Include="9935.cpp" />
   </ItemGroup>
 </Project>
